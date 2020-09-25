@@ -8,5 +8,5 @@
 - 💬 Ask me about my tech passions
 - 📫 How to reach me: Email: dominikkreslo@gmail.com, [LinkedIn](https://www.linkedin.com/in/dominikkreslo/), or [Twitter](https://twitter.com/dominikkreslo)!
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Hockey and Formula One are the two best sports
+- ⚡ Fun fact: Hockey and Formula One are my two favorite sports!
 
