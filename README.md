@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a .gov dataset with OneNine AI
-- 🌱 I’m currently learning Django
+- 🔭 I’m currently working on a data.gov dataset with OneNine AI
+- 🌱 I’m currently relearning Django
 - 👯 I’m looking to collaborate on security projects
 - 🤔 I’m looking for help with finding a way that AI can help the future
 - 💬 Ask me about my tech passions
