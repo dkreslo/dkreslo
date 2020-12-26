@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working on a data.gov dataset with OneNine AI
-- 🌱 I’m currently relearning Django
+- 🔭 I’m currently working on Pi-Hole optimization
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on security projects
 - 🤔 I’m looking for help with finding a way that AI can help the future
 - 💬 Ask me about my tech passions
 - 📫 How to reach me: Email: dominikkreslo@gmail.com, [LinkedIn](https://www.linkedin.com/in/dominikkreslo/), or [Twitter](https://twitter.com/dominikkreslo)!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Hockey and Formula One are my two favorite sports!
-
